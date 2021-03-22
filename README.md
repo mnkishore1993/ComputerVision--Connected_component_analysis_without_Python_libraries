@@ -29,7 +29,7 @@ Detection:
   Original image
 ![plot](test_img_chars.jpg)
 Components:
-![plot](test_img_chars_ccl.png)
+![plot](test_image_chars_ccl.png)
   
   
   
