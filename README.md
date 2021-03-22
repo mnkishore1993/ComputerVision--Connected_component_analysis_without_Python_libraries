@@ -24,8 +24,12 @@ Detection:
   Along with component labeling, created method to extract boundaries of a given
   component from the image.
   
+- Example 1:
   
-![plot](test_img1.png)
+  Original image
+![plot](test_img2.jpg)
+Components:
+![plot](test_img2.png)
   
 - Recognition:
   Once we have components and its boundaries from detection, we perform feature extraction on
