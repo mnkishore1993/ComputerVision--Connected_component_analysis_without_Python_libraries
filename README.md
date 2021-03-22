@@ -24,7 +24,16 @@ Detection:
   Along with component labeling, created method to extract boundaries of a given
   component from the image.
   
-- Example 1:
+- Example 1: On Text
+  
+  Original image
+![plot](test_img_chars.jpg)
+Components:
+![plot](test_img_chars_ccl.png)
+  
+  
+  
+- Example 2: On an image
   
   Original image
 ![plot](test_img2.jpg)
