@@ -1,4 +1,4 @@
-# Optical_Char_Recognition-ComputerVision
+# Connected Component Analysis_Recognition-ComputerVision
 - Objective :
 
   Perform connected component analysis to extract components and tag
